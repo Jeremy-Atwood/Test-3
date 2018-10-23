@@ -1,0 +1,15 @@
+h1 {
+    background: black;
+    color: white;
+    text-align: center;
+}
+.floater{
+    float: left;
+}
+img {
+    float: left;
+}
+p {
+    /* margin-left: 200px; */
+    float: left;
+}
